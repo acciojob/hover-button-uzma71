@@ -1,11 +1,11 @@
 
-#submit{
+#btn{
 	background:black;
 	color:white;
 	border-radius:5px;
 	border:0;
 }
-#submit:hover{
+#btn:hover{
 	background-color:yellow;
 	color:black;
 	border-radius:30px;
